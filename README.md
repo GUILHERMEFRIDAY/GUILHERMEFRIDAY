@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @GUILHERMEFRIDAY
-- 👀 I’m interested in data science, astrophysics, movies/tv shows, trains, rockets and everthing related to pop and geek culture,in a nutshell...a nerd
-- 🌱 I’m currently learning javascript and c++
-- 💞️ I’m looking to collaborate with nobody :)
-- 📫 How to reach me, never...
+- # 👋 Hi, I’m @GUILHERMEFRIDAY  
 
-<!---
-GUILHERMEFRIDAY/GUILHERMEFRIDAY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 About me  
+I’m interested in:  
+- Data Science & Machine Learning  
+- Astrophysics & Space Exploration 🚀  
+- Movies / TV Shows / Geek & Pop Culture 🎬  
+- Trains & Rockets 🚂✨  
+
+In a nutshell… just a nerd 🌌  
+
+---
+
+## 🌱 Currently learning  
+- JavaScript  
+- C++  
+
+---
+
+## 💻 Projects  
+*( [BlackHole-Simulation](https://github.com/GUILHERMEFRIDAY/BlackHole-Simulation))*  
+
+---
+
+## 🤝 Collaboration  
+Not looking to collaborate right now 🙂  
+
+---
+
+## 📫 How to reach me  
+Never talk to me… 😐
