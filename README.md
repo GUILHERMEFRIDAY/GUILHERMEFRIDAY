@@ -2,8 +2,8 @@
 
 ## 👀 About me  
 I’m interested in:  
-- Data Science & Machine Learning  
-- Astrophysics & Space Exploration 🚀  
+- Data Science & programming
+- Astrophysics/astronomy & Space Exploration 🚀  
 - Movies / TV Shows / Geek & Pop Culture 🎬  
 - Trains & Rockets 🚂✨  
 
