@@ -18,7 +18,7 @@ In a nutshell… just a nerd 🌌
 ---
 
 ## 💻 Projects  
-*( [BlackHole-Simulation](https://github.com/GUILHERMEFRIDAY/BlackHole-Simulation))*  
+*( https://github.com/GUILHERMEFRIDAY/Black-hole)*  
 
 ---
 
