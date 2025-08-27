@@ -18,7 +18,8 @@ In a nutshell… just a nerd 🌌
 ---
 
 ## 💻 Projects  
-*( https://github.com/GUILHERMEFRIDAY/Black-hole)*  
+*( https://github.com/GUILHERMEFRIDAY/Black-hole)*
+-2D black hole simulation with accurate physics equations
 
 ---
 
