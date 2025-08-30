@@ -13,7 +13,7 @@ In a nutshell… just a nerd 🌌
 
 ## 🌱 Currently learning  
 - JavaScript  
-- C++  
+- python  
 
 ---
 
@@ -29,4 +29,4 @@ Not looking to collaborate right now 🙂
 ---
 
 ## 📫 How to reach me  
-Never talk to me… 😐
+guialmeida2077@gmail.com
